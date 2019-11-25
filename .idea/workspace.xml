@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3a98a89-ee20-41dd-bcc9-9593f88f6f25" name="Default Changelist" comment="testing with pycharm">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/combo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/combo/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="b3a98a89-ee20-41dd-bcc9-9593f88f6f25" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +70,16 @@
       <option name="presentableId" value="Default" />
       <updated>1574699947413</updated>
       <workItem from="1574699963242" duration="541000" />
-      <workItem from="1574700513198" duration="1283000" />
+      <workItem from="1574700513198" duration="1460000" />
     </task>
+    <task id="LOCAL-00001" summary="testing with pycharm">
+      <created>1574702016128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574702016128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +112,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="testing with pycharm" />
     <option name="LAST_COMMIT_MESSAGE" value="testing with pycharm" />
   </component>
