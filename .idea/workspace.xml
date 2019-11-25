@@ -20,6 +20,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -70,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574699947413</updated>
       <workItem from="1574699963242" duration="541000" />
-      <workItem from="1574700513198" duration="1460000" />
+      <workItem from="1574700513198" duration="1741000" />
     </task>
     <task id="LOCAL-00001" summary="testing with pycharm">
       <created>1574702016128</created>
@@ -79,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574702016128</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testing with pycharm">
+      <created>1574702236619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574702236619</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
